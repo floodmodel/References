@@ -3,7 +3,7 @@ Reference materials for flood simulations using the tools in this "floodmodel" o
 
 ## YouTube video clips
 - Data processing tools : [**[Link]**](https://www.youtube.com/watch?v=iC3Qa9iwcus&t=62s)  
-- Kict Satellite Precipitation Converter : [**[Link]**](https://www.youtube.com/watch?v=E6YkLwmPDP4)  
+- KICT Satellite Precipitation Converter : [**[Link]**](https://www.youtube.com/watch?v=E6YkLwmPDP4)  
 - GRM model : [**[Link]**](https://www.youtube.com/watch?v=w9sBGezkPes)  
 - G2D model : [**[Link]**](https://www.youtube.com/watch?v=lnXc0Z8PRyY)  
 - Flood analysis using satellite precipitation and global geographic data : [**[Link]**](https://www.youtube.com/watch?v=Kh92vCsdMs4)  
